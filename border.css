@@ -1,0 +1,10 @@
+.rahat{
+    border: 10px solid #ff0000 ;
+
+    /*
+    border-width: 10px 20px 30px 40px;
+    border-style: solid/ridge/inset/none dotted dashed;
+    border-color: #ff0000;
+    /* border-radius: 10px; */ 
+    */
+}

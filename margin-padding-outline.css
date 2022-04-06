@@ -1,0 +1,36 @@
+/* body{
+    margin: 0;
+}
+.rahat{
+    width: 50%;
+    height: 300px;
+    background: red;
+    /* 
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 200px;
+    margin-bottom: 300px;  */
+    /* margin: 50px 100px 200px 400px; */
+    /* margin: 0 auto; */
+
+    /* padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-bottom: 200px; */
+
+    /* padding: 50px 100px 300px 400px; 
+
+} */
+
+p{
+    margin: 50px;
+    border: 1px solid #333;
+    /* outline-width: 5px;
+    outline-style: double;
+    outline-color: red; */
+    outline: 3px solid green;
+    outline-offset: 20px;
+
+
+    
+}
